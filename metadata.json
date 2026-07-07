@@ -1,0 +1,6 @@
+{
+  "name": "Schody Jarzębowski",
+  "description": "Schody Jarzębowski – producent schodów drewnianych na wymiar (dywanowych, wspornikowych, klasycznych na betonie) w Tuszynie. Obsługujemy Łódź, Piotrków Trybunalski, Pabianice i całe województwo łódzkie. Darmowy pomiar i doradztwo projektowe!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
